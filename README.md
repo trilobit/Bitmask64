@@ -1,12 +1,12 @@
 # Simple bitmask implementation
 
-##About
+## About
 
 Bitmask64 is a simple Golang implementation of bitwise operations for creating masks.
 
 This implementation based on [PHP Bitmask library](https://github.com/Aliance/Bitmask)
 
-##Installation
+## Installation
 
 To use this library just add it to your project:
 
@@ -14,12 +14,12 @@ To use this library just add it to your project:
 go get github.com/trilobit/Bitmask64
 ```
 
-##Usage
+## Usage
 
 See usage in [example](example.go) file.
 
-##Tests
+## Tests
 
-##License
+## License
 
 This software is distributed under [MIT License](LICENSE).
