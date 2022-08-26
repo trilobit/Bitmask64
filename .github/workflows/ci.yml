@@ -14,7 +14,6 @@ jobs:
   lint:
     name: GoLang CI linter
     runs-on: ubuntu-latest
-    if: ${{ github.base_ref == 'main' }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
@@ -32,7 +31,6 @@ jobs:
   test:
     name: GoLang CI linter
     runs-on: ubuntu-latest
-    if: ${{ github.base_ref == 'main' }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
