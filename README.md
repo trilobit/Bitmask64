@@ -21,6 +21,23 @@ go get github.com/trilobit/Bitmask64
 
 See usage in [example](example/main.go) file.
 
+The result of executing example code:
+
+```bash
+Check user for all access levels:
+Create:  false
+  Read:  false
+Update:  false
+Delete:  false
+-----------------------------------
+Check user for all access levels:
+Create:  false
+  Read:  true
+Update:  false
+Delete:  false
+-----------------------------------
+```
+
 ## License
 
 This software is distributed under [MIT License](LICENSE).
