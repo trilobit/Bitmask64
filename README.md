@@ -1,4 +1,8 @@
 # Simple bitmask implementation
+===
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Tests](https://github.com/trilobit/Bitmask64/.github/workflows/ci.yml/badge.svg?branch=main)
 
 ## About
 
@@ -16,9 +20,7 @@ go get github.com/trilobit/Bitmask64
 
 ## Usage
 
-See usage in [example](example.go) file.
-
-## Tests
+See usage in [example](example/main.go) file.
 
 ## License
 
