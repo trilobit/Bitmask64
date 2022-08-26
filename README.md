@@ -2,7 +2,7 @@
 ===
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-![Tests](https://github.com/trilobit/Bitmask64/.github/workflows/ci.yml/badge.svg?branch=main)
+![Tests](https://github.com/trilobit/Bitmask64/actions/workflows/ci.yml/badge.svg?branch=main)
 
 ## About
 
